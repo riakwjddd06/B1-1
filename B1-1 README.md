@@ -139,16 +139,19 @@ Q5: "지금 이 SF 공모전을 주최하는 출판사들의 역대 1차 심사 
 ## Chat GPT open AI (무료)
 https://chatgpt.com/share/6a5b398a-df10-83e8-9cd7-f7ab9cd8980a
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_usglmkusglmkusgl" src="https://github.com/user-attachments/assets/01030456-8db4-4c6c-84ad-65aea45a1971" />
 
 
 ## Claude sonnet 5 (무료)
 https://claude.ai/share/db5497b4-f32b-4fd7-9e6f-85727ff8030f
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_mu2q53mu2q53mu2q" src="https://github.com/user-attachments/assets/27ec076c-e241-4452-9154-6b0ba4c96512" />
 
 
 ## Google Gemini 3.5 Flash (무료)
 https://share.gemini.google/JHeRMTgqTp39
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_gbte0bgbte0bgbte" src="https://github.com/user-attachments/assets/d090e68b-671d-4057-bc1a-e71b8cf1a7bf" />
 
 
 
