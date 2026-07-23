@@ -1,3 +1,21 @@
+## Chat GPT open AI (무료)
+https://chatgpt.com/share/6a5b398a-df10-83e8-9cd7-f7ab9cd8980a
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_usglmkusglmkusgl" src="https://github.com/user-attachments/assets/01030456-8db4-4c6c-84ad-65aea45a1971" />
+
+
+## Claude sonnet 5 (무료)
+https://claude.ai/share/db5497b4-f32b-4fd7-9e6f-85727ff8030f
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_mu2q53mu2q53mu2q" src="https://github.com/user-attachments/assets/27ec076c-e241-4452-9154-6b0ba4c96512" />
+
+
+## Google Gemini 3.5 Flash (무료)
+https://share.gemini.google/JHeRMTgqTp39
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_gbte0bgbte0bgbte" src="https://github.com/user-attachments/assets/d090e68b-671d-4057-bc1a-e71b8cf1a7bf" />
+
+
 # AI 모델 비교 보고서
 
 ## 시스템 프롬프트 (v1)
@@ -133,27 +151,6 @@ Q5: "지금 이 SF 공모전을 주최하는 출판사들의 역대 1차 심사 
 * 창의성과 개연성 (SF 장르 적합성): SF 스릴러 특유의 긴장감을 잘 살렸으며, 2000자 내외의 본문 공개본이 흡인력 있게 작성되었는가?
 * 출력 형식 준수: 요구한 템플릿(제목/장르/대상/주제/줄거리/공개본)의 구조를 정확히 따르며, 불필요한 시스템 메시지를 노출하지 않는가?
 * 모호성 대처 (확인 질문): 입력이 불충분할 때 임의로 창작을 강행하지 않고, 적절한 역질문을 통해 작업의 방향을 명확히 하는가?
-
-
-
-## Chat GPT open AI (무료)
-https://chatgpt.com/share/6a5b398a-df10-83e8-9cd7-f7ab9cd8980a
-
-<img width="2816" height="1536" alt="Gemini_Generated_Image_usglmkusglmkusgl" src="https://github.com/user-attachments/assets/01030456-8db4-4c6c-84ad-65aea45a1971" />
-
-
-## Claude sonnet 5 (무료)
-https://claude.ai/share/db5497b4-f32b-4fd7-9e6f-85727ff8030f
-
-<img width="2816" height="1536" alt="Gemini_Generated_Image_mu2q53mu2q53mu2q" src="https://github.com/user-attachments/assets/27ec076c-e241-4452-9154-6b0ba4c96512" />
-
-
-## Google Gemini 3.5 Flash (무료)
-https://share.gemini.google/JHeRMTgqTp39
-
-<img width="2816" height="1536" alt="Gemini_Generated_Image_gbte0bgbte0bgbte" src="https://github.com/user-attachments/assets/d090e68b-671d-4057-bc1a-e71b8cf1a7bf" />
-
-
 
 
 
